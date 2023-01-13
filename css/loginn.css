@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+
+body{
+    background-image: url('../images/signupp-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 .button-submit{
     display:flex;
@@ -5,8 +12,11 @@
     background-color: #233696;
     border-width: 0rem;
     color:white;
-    border-radius:0.2rem;
+    border-radius:1rem;
     margin-top: 0.5rem;
+    font-family: poppins;
+    height:2rem;
+    width:20%;
 }
 
 .input-login1{
@@ -26,4 +36,19 @@
 }
 .password{
     margin-top: 0.5rem;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+
+label{
+    font-family: poppins;
+}
+
+input{
+    border-radius:0.5rem;
+    height: 2rem;
 }

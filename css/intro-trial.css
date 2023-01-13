@@ -16,6 +16,7 @@ body{
 
 .btndisp1try{
     background-color:transparent;
+    margin-top:10%;
     margin-left:80%;
 }
 
@@ -25,3 +26,19 @@ body{
 }
 
 
+a{
+    text-decoration: none;
+    color:white;
+}
+
+h3{
+    font-family: poppins;
+    color:aliceblue;
+    top:2%;
+    left:85%;
+}
+h4{
+    font-family:poppins;
+    color:aliceblue;
+    top:2%;
+}

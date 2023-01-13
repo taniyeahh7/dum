@@ -33,7 +33,7 @@ body{
     height:4rem;
     width:17%;
     font-family:poppins;
-    background-color: #3547A3;;
+    background-color: #3547A3;
     border-width:0;
     color:white;
     margin-top:0.1rem;
@@ -88,4 +88,9 @@ body{
     display: flex;
     justify-content: center;
     margin-top:1rem;
+}
+
+a{
+    text-decoration: none;
+    color:white;
 }
