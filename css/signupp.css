@@ -12,3 +12,14 @@
     align-items: center;
     width:2%;
 }
+
+input[type=text] {
+    width:90%;
+    border: 2px solid #eee;
+
+  }
+
+
+.label-login{
+    font-family:poppins;
+}
